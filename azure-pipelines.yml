@@ -9,6 +9,6 @@ extends:
   template: third-party-library-all-platforms-from-conan-center.yml@templates
   parameters:
     package: jasper
-    package_version: 2.0.14
+    package_version: 2.0.28
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
